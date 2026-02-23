@@ -2,7 +2,9 @@
 
 I started a group project with a few friends. To make a proof of concept I created this little Python script.
 
-I used Media Pipe from Google to track Hands (that I don't have to train a neural network or similar). 
+I used [Media Pipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) from Google to track Hands.
+
+The group project: https://github.com/mikaolmes/Lernperiode-14
 
 ## Setup
 Um es zum laufen zu bringen müssen Sie customkinter installieren
