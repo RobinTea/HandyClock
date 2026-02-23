@@ -7,15 +7,15 @@ I used [Media Pipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_l
 The group project: https://github.com/mikaolmes/Lernperiode-14
 
 ## Setup
-Um es zum laufen zu bringen müssen Sie customkinter installieren
+To make this work you have to install customkinter 
 
 ```pip install customtkinter```
 
-Für die Kamera installieren sie opencv
+Opencv for the camera
 
 ```pip install customtkinter opencv-python pillow```
 
-Für das Tracking
+Media Pipe for tracking
 
 ```pip install mediapipe```
 
