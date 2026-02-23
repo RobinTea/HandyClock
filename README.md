@@ -4,9 +4,26 @@ I started a group project with a few friends. To make a proof of concept I creat
 
 I used Media Pipe from Google to track Hands (that I don't have to train a neural network or similar). 
 
+## Setup
+Um es zum laufen zu bringen müssen Sie customkinter installieren
+
+```pip install customtkinter```
+
+Für die Kamera installieren sie opencv
+
+```pip install customtkinter opencv-python pillow```
+
+Für das Tracking
+
+```pip install mediapipe```
+
+## Result
+
 <img width="350" alt="super picture" src="https://github.com/user-attachments/assets/39d6335f-1bfb-42d3-aa2f-5583223a47d7" />
-<br>
+
 <img width="350" alt="absolute cinema" src="https://github.com/user-attachments/assets/eb1bd8f5-5fac-4454-9fad-6bafbbdda42f" />
+
+<br>
 
 I hard coded the position of pointing up (for now).
 
